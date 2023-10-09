@@ -7,12 +7,12 @@
   <h1>Hello there 👋</h1>
 </div>
 
-### About Me:
+## About Me:
 I am from Scottsdale, AZ.
 - 👨‍🎓 I am a student at Gonzaga University.
 - ☺️ In my free time, I enjoy reading and exercising.
 
-### 🔨 Languages:
+## 🔨 Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -26,14 +26,14 @@ I am from Scottsdale, AZ.
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"  title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
 
-### 🛠️ Tools:
+## 🛠️ Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
 </div>
 
-### 🧰 Toolkits: 
+## 🧰 Toolkits: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
