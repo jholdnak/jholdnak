@@ -10,7 +10,7 @@
 ## About Me:
 I am from Scottsdale, AZ.
 - 👨‍🎓 I am a student at Gonzaga University.
-- ☺️ In my free time, I enjoy reading and exercising.
+- ⚡ In my free time, I enjoy reading and exercising.
 
 ## 🔨 Languages:
 <div>
