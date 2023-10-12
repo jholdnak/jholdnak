@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/w7jtVnXxMOq08/giphy.gif" alt="An endless loading circle" width="240" height="180"/>
   <br>
-  <a href="https://www.linkedin.com/in/joseph-holdnak/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <h1>Hello there 👋</h1>
 </div>
 
