@@ -6,6 +6,7 @@
 
 ## About Me:
 I am from Scottsdale, AZ.
+- 🏢 I am a solutions engineer intern at BNBuilders.
 - 👨‍🎓 I am a student at Gonzaga University.
 - ⚡ In my free time, I enjoy reading and exercising.
 
