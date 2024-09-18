@@ -62,6 +62,7 @@ I am from Scottsdale, AZ.
 ### 🚀 CI/CD
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-plain.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>&nbsp;
 </div>
 
 ### 💻 Environments
