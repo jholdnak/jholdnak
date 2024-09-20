@@ -4,12 +4,12 @@
   <h1>Hello there 👋</h1>
 </div>
 
-## About Me:
+## About Me
 I am from Scottsdale, AZ.
 - 👨‍🎓 I am a student at Gonzaga University.
 - ⚡ In my free time, I enjoy reading and exercising.
 
-## 🛠️ What I've Worked With:
+## 🛠️ What I've Worked With
 
 ### 🔨 Languages
 <div>
@@ -69,6 +69,7 @@ I am from Scottsdale, AZ.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 </div>
