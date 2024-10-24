@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/haSbeZlMKCTE4/giphy.gif" alt="An endless loading circle" height=20% width=20% />
+  <img src="https://media.giphy.com/media/haSbeZlMKCTE4/giphy.gif" alt="A happy dachshund" height=20% width=20% />
   <br>
   <h1>Hello there 👋</h1>
 </div>
@@ -26,7 +26,6 @@ I am from Scottsdale, AZ.
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://pnghq.com/wp-content/uploads/sql-server-icon-transparent-image-download-88105.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-plain.svg" title="Visual Basic" alt="Visual Basic" width="40" height="40"/>&nbsp;
   <!-- Markdown languages --->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -42,6 +41,7 @@ I am from Scottsdale, AZ.
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
 </div>
 
